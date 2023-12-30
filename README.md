@@ -1,2 +1,2 @@
 # digitaltapri.github.io
-https://digitaltapri.in
+https://digitaltapri.github.io
